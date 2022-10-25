@@ -1,0 +1,22 @@
+{
+  "name": "ciclo_4",
+  "version": "0.1.0",
+  "description": "introduction to NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoVargas16/introNode.git"
+  },
+  "author": "DiegoVargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoVargas16/introNode/issues"
+  },
+  "homepage": "https://github.com/DiegoVargas16/introNode#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
